@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N+Okm6atazo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\simpa\\Source\\Repos\\fantacyfotball-app\\fantacyfotball-app\\fantacyfotball-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simpa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512"
+  ],
+  "logs": []
+}
